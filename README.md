@@ -1,6 +1,7 @@
 ### 👋 Hi there, I'm Dashendri Dorasamy 🐣
 ### 🤓 BCom Computer Science and Information Systems Graduate
-### 🔭 I'm currently working on my Honours Degree
+### 🌱 I'm currently working on my Honours Degree
+
 
 <!--
 **DashendriD/DashendriD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
