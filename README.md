@@ -1,6 +1,5 @@
 ### 👋 Hi there, I'm Dashendri Dorasamy 🐣
-### 🤓 BCom Computer Science and Information Systems Graduate
-### 🌱 I'm currently working on my Honours Degree
+### 🤓 BCom Computer Science and Information Systems 
 
 
 <!--
